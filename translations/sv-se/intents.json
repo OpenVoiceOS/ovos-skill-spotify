@@ -1,32 +1,32 @@
 {
     "WhatArtist.intent": [
+        "(vem är|vem) artisten",
+        "(vem är|vem) spelar (detta|) ",
         "vem lyssnar (vi|jag) till",
-        "(vem \u00e4r|vem) artisten",
-        "(vem \u00e4r|vem) spelar (detta|) ",
-        "vilken grupp \u00e4r detta",
+        "vilken artist är detta",
         "vilken grupp (lyssnar vi till|spelar jag)",
-        "vilken artist \u00e4r detta"
-    ],
-    "WhatSong.intent": [
-        "(vad \u00e4r|vad) spelar",
-        "tala om f\u00f6r mig (vad|vad som) spelas",
-        "vad lyssnar (vi|jag) till",
-        "vad \u00e4r det f\u00f6r l\u00e5t",
-        "(vad|vad \u00e4r) denna s\u00e5ng",
-        "tala om f\u00f6r mig (vad|vad \u00e4r) detta f\u00f6r s\u00e5ng"
-    ],
-    "StopMusic.intent": [
-        "(stoppa|sluta|st\u00e4ng av) (|) (musik|spotify|)"
-    ],
-    "ShuffleOff.intent": [
-        "(sl\u00e5(| ifr\u00e5n)|v\u00e4xla(| ifr\u00e5n)|inaktivera|fr\u00e5nkoppla) spotify (shuffle|blanda)",
-        "s\u00e4tt spotify (shuffle|blanda) till fr\u00e5n"
+        "vilken grupp är detta"
     ],
     "WhatAlbum.intent": [
-        "vilket (album|skiva|cd|lp) \u00e4r (detta|det d\u00e4r)",
-        "vad \u00e4r detta f\u00f6r (album|skiva|cd|lp)"
+        "vad är detta för (album|skiva|cd|lp)",
+        "vilket (album|skiva|cd|lp) är (detta|det där)"
+    ],
+    "ShuffleOff.intent": [
+        "(slå(| ifrån)|växla(| ifrån)|inaktivera|frånkoppla) spotify (shuffle|blanda)",
+        "sätt spotify (shuffle|blanda) till från"
+    ],
+    "WhatSong.intent": [
+        "(vad är|vad) spelar",
+        "(vad|vad är) denna sång",
+        "tala om för mig (vad|vad som) spelas",
+        "tala om för mig (vad|vad är) detta för sång",
+        "vad lyssnar (vi|jag) till",
+        "vad är det för låt"
+    ],
+    "StopMusic.intent": [
+        "(stoppa|sluta|stäng av) (|) (musik|spotify|)"
     ],
     "ShuffleOn.intent": [
-        "(sl\u00e5 p\u00e5|aktivera|s\u00e4tt) spotify (shuffle|blanda)(| till)"
+        "(slå på|aktivera|sätt) spotify (shuffle|blanda)(| till)"
     ]
 }
