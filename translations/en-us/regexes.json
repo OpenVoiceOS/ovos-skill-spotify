@@ -1,5 +1,0 @@
-{
-    "ToDevice.rx": [
-        "to (?P<ToDevice>.+)"
-    ]
-}

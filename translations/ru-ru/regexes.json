@@ -1,5 +1,0 @@
-{
-    "ToDevice.rx": [
-        "\u043d\u0430 (?P<ToDevice>.+)"
-    ]
-}
