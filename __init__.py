@@ -157,11 +157,11 @@ class SpotifySkill(OVOSCommonPlaybackSkill):
         if not self.has_configured_players():
             return []
         base_score = 0
-        if self.voc_match(phrase, "Spotify"):
+        if self.voc_match(phrase, "spotify_skill"):
             base_score = 30
         if media_type == MediaType.MUSIC:
             base_score += 15
-        phrase = self.remove_voc(phrase, "Spotify")
+        phrase = self.remove_voc(phrase, "spotify_skill")
         for res in self.search_artists(phrase):
             res.match_confidence += base_score
             res.match_confidence = min(100, res.match_confidence)
@@ -172,11 +172,11 @@ class SpotifySkill(OVOSCommonPlaybackSkill):
         if not self.has_configured_players():
             return []
         base_score = 0
-        if self.voc_match(phrase, "Spotify"):
+        if self.voc_match(phrase, "spotify_skill"):
             base_score = 30
         if media_type == MediaType.MUSIC:
             base_score += 15
-        phrase = self.remove_voc(phrase, "Spotify")
+        phrase = self.remove_voc(phrase, "spotify_skill")
         try:
             for res in self.search_albums(phrase):
                 res.match_confidence += base_score
@@ -190,11 +190,11 @@ class SpotifySkill(OVOSCommonPlaybackSkill):
         if not self.has_configured_players():
             return []
         base_score = 0
-        if self.voc_match(phrase, "Spotify"):
+        if self.voc_match(phrase, "spotify_skill"):
             base_score = 30
         if media_type == MediaType.MUSIC:
             base_score += 15
-        phrase = self.remove_voc(phrase, "Spotify")
+        phrase = self.remove_voc(phrase, "spotify_skill")
         try:
             for res in self.search_tracks(phrase):
                 res.match_confidence += base_score
@@ -208,11 +208,11 @@ class SpotifySkill(OVOSCommonPlaybackSkill):
         if not self.has_configured_players():
             return []
         base_score = 0
-        if self.voc_match(phrase, "Spotify"):
+        if self.voc_match(phrase, "spotify_skill"):
             base_score = 30
         if media_type == MediaType.MUSIC:
             base_score += 15
-        phrase = self.remove_voc(phrase, "Spotify")
+        phrase = self.remove_voc(phrase, "spotify_skill")
         try:
             for res in self.search_playlists(phrase):
                 res.match_confidence += base_score
