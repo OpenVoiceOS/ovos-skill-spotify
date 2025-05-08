@@ -1,1 +1,0 @@
-(a|minha) (lista de reprodução|playllist) (spotify|) (?P<playlist>.+)
