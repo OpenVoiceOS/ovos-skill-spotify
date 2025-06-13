@@ -1,1 +1,0 @@
-(a|miña) (lista de reprodución|lista de reprodución) (de spotify|) (?P<playlist>.+)

@@ -1,28 +1,20 @@
 # Changelog
 
-## [0.1.9a2](https://github.com/OpenVoiceOS/ovos-skill-spotify/tree/0.1.9a2) (2024-11-20)
+## [0.1.10a2](https://github.com/OpenVoiceOS/ovos-skill-spotify/tree/0.1.10a2) (2025-06-13)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-spotify/compare/0.1.9a1...0.1.9a2)
-
-**Merged pull requests:**
-
-- drop backend client [\#26](https://github.com/OpenVoiceOS/ovos-skill-spotify/pull/26) ([JarbasAl](https://github.com/JarbasAl))
-
-## [0.1.9a1](https://github.com/OpenVoiceOS/ovos-skill-spotify/tree/0.1.9a1) (2024-11-19)
-
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-spotify/compare/0.1.8a1...0.1.9a1)
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-spotify/compare/0.1.10a1...0.1.10a2)
 
 **Merged pull requests:**
 
-- fix:allow workshop 3.0.0 [\#24](https://github.com/OpenVoiceOS/ovos-skill-spotify/pull/24) ([JarbasAl](https://github.com/JarbasAl))
+- Drop translations [\#30](https://github.com/OpenVoiceOS/ovos-skill-spotify/pull/30) ([JarbasAl](https://github.com/JarbasAl))
 
-## [0.1.8a1](https://github.com/OpenVoiceOS/ovos-skill-spotify/tree/0.1.8a1) (2024-11-17)
+## [0.1.10a1](https://github.com/OpenVoiceOS/ovos-skill-spotify/tree/0.1.10a1) (2025-01-25)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-spotify/compare/0.1.7...0.1.8a1)
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-spotify/compare/0.1.9...0.1.10a1)
 
 **Merged pull requests:**
 
-- fix: skilljson [\#22](https://github.com/OpenVoiceOS/ovos-skill-spotify/pull/22) ([JarbasAl](https://github.com/JarbasAl))
+- fix automations [\#28](https://github.com/OpenVoiceOS/ovos-skill-spotify/pull/28) ([JarbasAl](https://github.com/JarbasAl))
 
 
 
