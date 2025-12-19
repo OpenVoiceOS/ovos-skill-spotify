@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.11a2](https://github.com/OpenVoiceOS/ovos-skill-spotify/tree/0.1.11a2) (2025-12-19)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-spotify/compare/0.1.11a1...0.1.11a2)
+
+**Merged pull requests:**
+
+- Update dependency python to 3.14 [\#34](https://github.com/OpenVoiceOS/ovos-skill-spotify/pull/34) ([renovate[bot]](https://github.com/apps/renovate))
+
 ## [0.1.11a1](https://github.com/OpenVoiceOS/ovos-skill-spotify/tree/0.1.11a1) (2025-12-19)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-spotify/compare/0.1.10...0.1.11a1)
