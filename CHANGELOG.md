@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.12a1](https://github.com/OpenVoiceOS/ovos-skill-spotify/tree/0.1.12a1) (2026-04-03)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-spotify/compare/0.1.11a2...0.1.12a1)
+
+**Merged pull requests:**
+
+- fix\(i18n\): normalize locale folders to canonical BCP-47 [\#42](https://github.com/OpenVoiceOS/ovos-skill-spotify/pull/42) ([JarbasAl](https://github.com/JarbasAl))
+
 ## [0.1.11a2](https://github.com/OpenVoiceOS/ovos-skill-spotify/tree/0.1.11a2) (2025-12-19)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-spotify/compare/0.1.11a1...0.1.11a2)
