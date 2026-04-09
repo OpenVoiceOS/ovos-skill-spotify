@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.12a3](https://github.com/OpenVoiceOS/ovos-skill-spotify/tree/0.1.12a3) (2026-04-09)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-spotify/compare/0.1.12a2...0.1.12a3)
+
+**Merged pull requests:**
+
+- chore\(ovos-skill-spotify\): allow ovos-workshop\<9.0.0 [\#45](https://github.com/OpenVoiceOS/ovos-skill-spotify/pull/45) ([JarbasAl](https://github.com/JarbasAl))
+
 ## [0.1.12a2](https://github.com/OpenVoiceOS/ovos-skill-spotify/tree/0.1.12a2) (2026-04-04)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-spotify/compare/0.1.12a1...0.1.12a2)
