@@ -1,20 +1,52 @@
 # Changelog
 
-## [0.1.10a2](https://github.com/OpenVoiceOS/ovos-skill-spotify/tree/0.1.10a2) (2025-06-13)
+## [0.1.13a1](https://github.com/OpenVoiceOS/ovos-skill-spotify/tree/0.1.13a1) (2026-06-07)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-spotify/compare/0.1.10a1...0.1.10a2)
-
-**Merged pull requests:**
-
-- Drop translations [\#30](https://github.com/OpenVoiceOS/ovos-skill-spotify/pull/30) ([JarbasAl](https://github.com/JarbasAl))
-
-## [0.1.10a1](https://github.com/OpenVoiceOS/ovos-skill-spotify/tree/0.1.10a1) (2025-01-25)
-
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-spotify/compare/0.1.9...0.1.10a1)
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-spotify/compare/0.1.12a3...0.1.13a1)
 
 **Merged pull requests:**
 
-- fix automations [\#28](https://github.com/OpenVoiceOS/ovos-skill-spotify/pull/28) ([JarbasAl](https://github.com/JarbasAl))
+- fix\(deps\): allow ovos-bus-client 2.x \(widen cap to \<3.0.0\) [\#47](https://github.com/OpenVoiceOS/ovos-skill-spotify/pull/47) ([JarbasAl](https://github.com/JarbasAl))
+
+## [0.1.12a3](https://github.com/OpenVoiceOS/ovos-skill-spotify/tree/0.1.12a3) (2026-04-09)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-spotify/compare/0.1.12a2...0.1.12a3)
+
+**Merged pull requests:**
+
+- chore\(ovos-skill-spotify\): allow ovos-workshop\<9.0.0 [\#45](https://github.com/OpenVoiceOS/ovos-skill-spotify/pull/45) ([JarbasAl](https://github.com/JarbasAl))
+
+## [0.1.12a2](https://github.com/OpenVoiceOS/ovos-skill-spotify/tree/0.1.12a2) (2026-04-04)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-spotify/compare/0.1.12a1...0.1.12a2)
+
+**Merged pull requests:**
+
+- ci: modernize GitHub workflows [\#43](https://github.com/OpenVoiceOS/ovos-skill-spotify/pull/43) ([JarbasAl](https://github.com/JarbasAl))
+
+## [0.1.12a1](https://github.com/OpenVoiceOS/ovos-skill-spotify/tree/0.1.12a1) (2026-04-03)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-spotify/compare/0.1.11a2...0.1.12a1)
+
+**Merged pull requests:**
+
+- fix\(i18n\): normalize locale folders to canonical BCP-47 [\#42](https://github.com/OpenVoiceOS/ovos-skill-spotify/pull/42) ([JarbasAl](https://github.com/JarbasAl))
+
+## [0.1.11a2](https://github.com/OpenVoiceOS/ovos-skill-spotify/tree/0.1.11a2) (2025-12-19)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-spotify/compare/0.1.11a1...0.1.11a2)
+
+**Merged pull requests:**
+
+- Update dependency python to 3.14 [\#34](https://github.com/OpenVoiceOS/ovos-skill-spotify/pull/34) ([renovate[bot]](https://github.com/apps/renovate))
+
+## [0.1.11a1](https://github.com/OpenVoiceOS/ovos-skill-spotify/tree/0.1.11a1) (2025-12-19)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-spotify/compare/0.1.10...0.1.11a1)
+
+**Merged pull requests:**
+
+- Configure Renovate [\#32](https://github.com/OpenVoiceOS/ovos-skill-spotify/pull/32) ([renovate[bot]](https://github.com/apps/renovate))
 
 
 
