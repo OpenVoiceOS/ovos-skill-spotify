@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.13a1](https://github.com/OpenVoiceOS/ovos-skill-spotify/tree/0.1.13a1) (2026-06-07)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-spotify/compare/0.1.12a3...0.1.13a1)
+
+**Merged pull requests:**
+
+- fix\(deps\): allow ovos-bus-client 2.x \(widen cap to \<3.0.0\) [\#47](https://github.com/OpenVoiceOS/ovos-skill-spotify/pull/47) ([JarbasAl](https://github.com/JarbasAl))
+
 ## [0.1.12a3](https://github.com/OpenVoiceOS/ovos-skill-spotify/tree/0.1.12a3) (2026-04-09)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-spotify/compare/0.1.12a2...0.1.12a3)
