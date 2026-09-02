@@ -2,8 +2,9 @@ from os.path import join, dirname
 from typing import Iterable
 
 from ovos_skill_spotify.spotify import SpotifyClient
+from ovos_skill_spotify.version import VERSION_MAJOR
 from ovos_utils import classproperty
-from ovos_utils.log import LOG
+from ovos_utils.log import LOG, log_deprecation
 from ovos_utils.process_utils import RuntimeRequirements
 from ovos_utils.ocp import MediaType, PlaybackType, MediaEntry, Playlist
 from ovos_workshop.decorators.ocp import ocp_search
@@ -12,6 +13,14 @@ from ovos_workshop.skills.common_play import OVOSCommonPlaybackSkill
 
 class SpotifySkill(OVOSCommonPlaybackSkill):
     def __init__(self, *args, **kwargs):
+        log_deprecation("ovos-skill-spotify is deprecated and will be "
+                         "replaced by ovos-media-provider-spotify (search, "
+                         "dispatched by the OCP pipeline) and "
+                         "ovos-media-plugin-spotify (playback backend, part "
+                         "of ovos-media) once the OCP pipeline's "
+                         "MediaProvider dispatch becomes the default search "
+                         "path — install those plugins instead",
+                         deprecation_version=f"{VERSION_MAJOR + 1}.0.0")
         self.spotify = SpotifyClient()
         super().__init__(supported_media=[MediaType.GENERIC, MediaType.MUSIC],
                          skill_icon=join(dirname(__file__), "spotify.png"),
