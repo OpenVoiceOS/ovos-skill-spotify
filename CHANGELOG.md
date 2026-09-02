@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.1.13a2](https://github.com/OpenVoiceOS/ovos-skill-spotify/tree/0.1.13a2) (2026-09-02)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-spotify/compare/0.1.13a1...0.1.13a2)
+
+**Merged pull requests:**
+
+- docs: deprecation notice — superseded by MediaProvider plugins [\#49](https://github.com/OpenVoiceOS/ovos-skill-spotify/pull/49) ([JarbasAl](https://github.com/JarbasAl))
+
 ## [0.1.13a1](https://github.com/OpenVoiceOS/ovos-skill-spotify/tree/0.1.13a1) (2026-06-07)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-spotify/compare/0.1.12a3...0.1.13a1)
